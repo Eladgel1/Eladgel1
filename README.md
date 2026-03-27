@@ -1,4 +1,5 @@
-## 👋 Hello Everyone
+## 💫 About Me
+👋 Hello Everyone<br/><br/>
 I'm Elad, a Software Engineer focused on building automation tools, data workflows, and real-time dashboards within navigation and control systems.<br><br>🚀 In my day-to-day work, I develop internal tools, desktop applications, and AI-driven prototypes that transform raw field data into accurate, actionable insights for engineering teams.<br><br>💻 Alongside that, I have hands-on experience in full-stack development and DevOps fundamentals - building and deploying scalable applications using React, Node.js, FastAPI, Docker, and CI/CD pipelines.<br><br>🧠 I’m passionate about writing clean, maintainable code and continuously learning modern technologies to create impactful, production-ready solutions.<br><br>🤝 Open to new opportunities and collaborations - feel free to reach out, I'd love to connect and explore ideas together.<br/>
 
 ## 🌐 Socials

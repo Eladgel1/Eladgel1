@@ -1,6 +1,5 @@
 ## 👋 Hello Everyone
-I'm Elad, a Software Engineer focused on building automation tools, data workflows, and real-time dashboards within navigation and control systems.<br><br>🚀 In my day-to-day work, I develop internal tools, desktop applications, and AI-driven prototypes that transform raw field data into accurate, actionable insights for engineering teams.<br><br>💻 Alongside that, I have hands-on experience in full-stack development and DevOps fundamentals - building and deploying scalable applications using React, Node.js, FastAPI, Docker, and CI/CD pipelines.<br><br>🧠 I’m passionate about writing clean, maintainable code and continuously learning modern technologies to create impactful, production-ready solutions.<br><br>🤝 Open to new opportunities and collaborations - feel free to reach out, I'd love to connect and explore ideas together.<br><br>E-Mail : eladg3@gmail.com 📩<br>Mobile : +972 525393608 📞📱
-
+I'm Elad, a Software Engineer focused on building automation tools, data workflows, and real-time dashboards within navigation and control systems.<br><br>🚀 In my day-to-day work, I develop internal tools, desktop applications, and AI-driven prototypes that transform raw field data into accurate, actionable insights for engineering teams.<br><br>💻 Alongside that, I have hands-on experience in full-stack development and DevOps fundamentals - building and deploying scalable applications using React, Node.js, FastAPI, Docker, and CI/CD pipelines.<br><br>🧠 I’m passionate about writing clean, maintainable code and continuously learning modern technologies to create impactful, production-ready solutions.<br><br>🤝 Open to new opportunities and collaborations - feel free to reach out, I'd love to connect and explore ideas together.<br/>
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/elad.gelerenter) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elad-gelerenter/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eladg3@gmail.com) 
@@ -15,12 +14,9 @@ I'm Elad, a Software Engineer focused on building automation tools, data workflo
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Eladgel1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Eladgel1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
